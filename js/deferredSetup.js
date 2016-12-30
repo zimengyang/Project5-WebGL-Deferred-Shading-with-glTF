@@ -40,7 +40,7 @@
     R.light_min = [-14, 0, -6];
     R.light_max = [14, 18, 6];
     R.light_dt = -0.03;
-    R.LIGHT_RADIUS = 4.0;  
+    R.LIGHT_RADIUS = 3.0;  
     R.NUM_LIGHTS = 40; // TODO: test with MORE lights!
     var setupLights = function() {
         Math.seedrandom(0);
